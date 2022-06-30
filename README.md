@@ -1,5 +1,6 @@
 # Augmented-Reality-Model-of-Virtualisation-of-Face-Mask-
 A python notebook to virtually generate face mask on the face detected in the input image. 
+Link to the research paper : http://jmdet.com/augmented-reality-model-for-the-virtualisation-of-the-mask/
 This repo contains the code to virtually augment a mask on the given inout image. The input and output of the model is : 
 <br>
 <img src="https://user-images.githubusercontent.com/49029679/97467306-12594480-196a-11eb-80a5-802a7ce1a70d.jpg" width="200">
